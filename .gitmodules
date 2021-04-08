@@ -1,6 +1,7 @@
-[submodule "Concentration-Messurement"]
-	path = deps/Concentration-Messurement
-	url = https://github.com/DooomiT/Concentration-Messurement
-[submodule "Concentration-Dashboard"]
+
+[submodule "deps/Concentration-Dashboard"]
 	path = deps/Concentration-Dashboard
-	url = https://github.com/DooomiT/Concentration-Dashboard
+	url = https://github.com/DooomiT/Concentration-Dashboard.git
+[submodule "deps/Concentration-Messurement"]
+	path = deps/Concentration-Messurement
+	url = https://github.com/DooomiT/Concentration-Messurement.git
